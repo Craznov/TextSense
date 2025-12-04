@@ -8,6 +8,4 @@ fine_tuning.ipynb => preprocess data from kaggle, tokenize the words from datase
 .csv files        => datasets from kaggle 
 
 
-TL;DR \
-why .ipynb ?\
-so i can understand each parts of the code (e.g., this part of code is for "tokenization")
+TL;DR: Use .ipynb so I can understand each part of the code (e.g., which part handles tokenization).
